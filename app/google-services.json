@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282870763363",
+    "project_id": "shoppingapp-a7ab3",
+    "storage_bucket": "shoppingapp-a7ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282870763363:android:7eb27c4854eeca941c4d56",
+        "android_client_info": {
+          "package_name": "com.example.shoeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qrasmfaXZ4U2kYQLltukX0A3N1f6NFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282870763363:android:09713d4819c7c0e71c4d56",
+        "android_client_info": {
+          "package_name": "com.vishalgaur.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qrasmfaXZ4U2kYQLltukX0A3N1f6NFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

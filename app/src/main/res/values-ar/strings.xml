@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الأحذية</string>
+    <string name="like">يحب</string>
+    <string name="email">أدخل البريد الإلكتروني</string>
+    <string name="password">أدخل كلمة المرور</string>
+    <string name="name">أدخل الاسم</string>
+    <string name="singin">لديك حساب بالفعل؟ تسجيل الدخول</string>
+    <string name="singup">انشاء حساب جديد ؟ اشتراك</string>
+    <string name="btn_signin">تسجيل الدخول</string>
+    <string name="btn_signup">اشتراك</string>
+    <string name="lang_change">تغيير اللغة</string>
+    <string name="title_activity_signin_signup">activity_signin_signup</string>
+</resources>

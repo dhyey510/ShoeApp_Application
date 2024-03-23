@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">鞋类应用程序</string>
+    <string name="like">喜欢</string>
+    <string name="email">输入电子邮件</string>
+    <string name="password">输入密码</string>
+    <string name="name">输入名字</string>
+    <string name="singin">已有帐户？ 登入</string>
+    <string name="singup">建立新帐户 ？ 报名</string>
+    <string name="btn_signin">登入</string>
+    <string name="btn_signup">报名</string>
+    <string name="lang_change">改变语言</string>
+    <string name="title_activity_signin_signup">活动登录注册</string>
+</resources>

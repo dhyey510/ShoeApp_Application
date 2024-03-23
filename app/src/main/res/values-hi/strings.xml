@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoeApp</string>
+    <string name="like">पसंद</string>
+    <string name="email">ईमेल दर्ज करें</string>
+    <string name="password">पास वर्ड दर्ज करें</string>
+    <string name="name">नाम दर्ज करें</string>
+    <string name="singin">पहले से ही खाता है? दाखिल करना</string>
+    <string name="singup">नया खाता बनाएँ ? साइन अप करें</string>
+    <string name="btn_signin">दाखिल करना</string>
+    <string name="btn_signup">साइन अप करें</string>
+    <string name="lang_change">भाषा बदलें</string>
+    <string name="title_activity_signin_signup">गतिविधि_साइनइन_साइनअप</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoeApp</string>
+    <string name="like">Like</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="name">Enter Name</string>
+    <string name="singin">Already have Account ? SignIn</string>
+    <string name="singup">Create New Account ? SignUp</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="btn_signup">Signup</string>
+    <string name="lang_change">Change Language</string>
+    <string name="title_activity_signin_signup">activity_signin_signup</string>
+</resources>
